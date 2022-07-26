@@ -1,0 +1,14 @@
+/*style.css*/
+.body{
+    font-size: 28px;
+    font: "Helvetica, Times New Roman" sans-serif;
+}
+
+.body .button1{
+    background-color: black;
+    color: white;
+}
+
+.body .button2{
+    background-color: yellow;
+}
