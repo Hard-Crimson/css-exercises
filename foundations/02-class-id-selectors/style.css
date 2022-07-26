@@ -1,11 +1,11 @@
 /*style.css*/
 
-p {
+.odd {
     background-color: pink;
     font-family: "Verdana, DejaVu sans" sans-serif;
 }
 
-.cooler {
+.odd.cooler {
         font-size: 24px;
 }
 
